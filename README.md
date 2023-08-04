@@ -1,2 +1,2 @@
 # ZumoTrainingCode
-Student code for software training with Sumo robots
+Student code for software training with Zumo robots
